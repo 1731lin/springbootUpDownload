@@ -1,0 +1,12 @@
+program example;
+var
+     a,b,c:integer;
+x:char;
+begin
+a:=5+c;
+if a >b+4 then 
+   begin
+     x:=b*6;
+     if a>100 then a:=c+10;
+   end;
+end;

@@ -1,0 +1,9 @@
+server:
+  port:8080
+    context-path:/index
+
+spring:
+  servlet:
+    multipart:
+      max-request-size: 30MB
+      max-file-size: 50MB
