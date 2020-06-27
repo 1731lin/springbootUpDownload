@@ -70,7 +70,7 @@
           <!--增加jvm参数-->
           <jvmArguments>-Dfile.encoding=UTF-8</jvmArguments>
           <!--指定入口类-->
-          <mainClass>com.baizhi.Application</mainClass>
+          <mainClass>ltd.cqut.Application</mainClass>
         </configuration>
       </plugin>
     </plugins>
